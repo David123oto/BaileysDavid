@@ -2,14 +2,24 @@
   "name": "baileysdavid-main",
   "version": "1.0.0",
   "description": "yeah",
+  "homepage": "https://github.com/David123oto/BaileysDavid#readme",
+  "bugs": {
+    "url": "https://github.com/David123oto/BaileysDavid/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David123oto/BaileysDavid.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "express": "^5.2.1",
     "expressa": "^2.1.1"
   }
 }
